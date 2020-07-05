@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/uborzz/.local/share/virtualenvs/ocr-python-vSIeirZV/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": ["--extension-pkg-whitelist=cv2"]
+}
