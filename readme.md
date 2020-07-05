@@ -1,10 +1,12 @@
 ## Pdf - ocr
 
 ### setup
+```bash
 pipenv install
 sudo apt-get install tesseract-ocr
+```
 
 ### example scripts
-* basics
-* other_methods
-* from_ocv2
+* basics.py
+* other_methods.py
+* from_ocv2.py
